@@ -1,4 +1,4 @@
-# MS Teams archive tool - about
+# MS Teams archive tool
 
 This is MS Teams archive tool that saves the conversation of chats and teams.
 It is written for archiving the MS Teams chats of Lodz University of Technology, but probably may be easily adapted for other cases.
